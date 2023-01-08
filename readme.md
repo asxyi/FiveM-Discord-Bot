@@ -9,4 +9,4 @@ Bot para discord para servidores de FiveM.
   * Sistema de música [Em breve]
 
 ## Exemplo
-![Loading Example...](https://i.imgur.com/kVtTKvS.gif)
+![Loading Example...]()
